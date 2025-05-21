@@ -11,13 +11,13 @@ export default function App() {
 
   // Replace with your Firebase config
   const firebaseConfig = {
-    apiKey: AIzaSyDFU9JS5Bd1jep5676zP1eAdkagS2RFpHs,
-    authDomain: vibetubelive1.firebaseapp.com,
-    databaseURL: https://vibetubelive1-default-rtdb.firebaseio.com,
-    projectId: vibetubelive1,
-    storageBucket: vibetubelive1.firebasestorage.app,
-    messagingSenderId: 130606987584,
-    appId: 1:130606987584:web:f66031ad2c284f9860e2a5,
+    apiKey: "AIzaSyDFU9JS5Bd1jep5676zP1eAdkagS2RFpHs",
+    authDomain: "vibetubelive1.firebaseapp.com",
+    databaseURL: "https://vibetubelive1-default-rtdb.firebaseio.com",
+    projectId: "vibetubelive1",
+    storageBucket: "vibetubelive1.firebasestorage.app",
+    messagingSenderId: "130606987584",
+    appId: "1:130606987584:web:f66031ad2c284f9860e2a5",
   };
 
   // Initialize Firebase
