@@ -13,7 +13,7 @@ export default function App() {
   const firebaseConfig = {
     apiKey: "AIzaSyDFU9JS5Bd1jep5676zP1eAdkagS2RFpHs",
     authDomain: "vibetubelive1.firebaseapp.com",
-    databaseURL: "https://vibetubelive1-default-rtdb.firebaseio.com",
+    databaseURL: "https://vibetubelive1-default-rtdb.firebaseio.com ",
     projectId: "vibetubelive1",
     storageBucket: "vibetubelive1.firebasestorage.app",
     messagingSenderId: "130606987584",
@@ -205,6 +205,7 @@ export default function App() {
   );
 }
 
+// Video Card Component
 function VideoCard({ video, darkMode }) {
   const handleThumbnailClick = () => {
     const iframe = document.createElement('iframe');
