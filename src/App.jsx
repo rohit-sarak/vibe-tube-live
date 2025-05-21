@@ -17,7 +17,7 @@ export default function App() {
     projectId= vibetubelive1,
     storageBucket= vibetubelive1.firebasestorage.app,
     messagingSenderId= 130606987584,
-    appId= 1:130606987584:web:f66031ad2c284f9860e2a5
+    appId= 1:130606987584:web:f66031ad2c284f9860e2a5,
   };
 
   // Initialize Firebase
